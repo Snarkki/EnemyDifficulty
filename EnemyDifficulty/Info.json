@@ -1,0 +1,11 @@
+{
+  "Id": "DifficultyMod",
+  "DisplayName": "EnemyDifficulty Mod",
+  "Author": "OssiK",
+  "Version": "1.0.0",
+  "ManagerVersion": "0.13.0",
+  "Requirements": [],
+  "AssemblyName": "DifficultyMod.dll",
+  "EntryMethod": "DifficultyMod.Main.Load"
+}
+
